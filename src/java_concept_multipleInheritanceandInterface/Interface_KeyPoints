@@ -1,0 +1,16 @@
+
+
+Interface properties:
+
+- There are only Method declarations(prototype)
+- No Method body will be defined in an Interface
+- Method body will be defined only in the Implemented class
+- We can declare the variable in an Interface
+- Interface variables are static by nature
+- Also, the variables are final by nature. We can not change the value of a variable in the Implemented class of an Interface
+- Value of the variables will not be changed
+- There are no static methods in Interface
+- There is no main method in Interface
+- We can not create the object for an Interface
+- Interface is abstract in nature
+- If a Class implementing any Interface, then it is mandatory to define/override all the methods of Interface 
