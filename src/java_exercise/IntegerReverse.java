@@ -5,7 +5,7 @@ public class IntegerReverse
 
 	public static void main(String[] args)
 	{
-		int n = 100;
+		int n = 1234567890;
 		String r = "";
 		int t;
 		while(n!=0)
@@ -17,7 +17,7 @@ public class IntegerReverse
 				System.out.print("0");*/
 			
 		}
-		System.out.println(r);
+		//System.out.println(r);
 		
 			
 		

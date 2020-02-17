@@ -36,7 +36,9 @@ public class StringManipulation
 		System.out.println(c.trim()); 							//trim a string (clear spaces before and after the string)
 		System.out.println(c.replace(" ", "O")); 				//replace a char
 		System.out.println(d.replace("-", "/")); 				//replace a char
-		System.out.println(d.replaceAll("[^ 0-9]", "")); 		//replace char by using regular expression
+		String rs = d.replaceAll("[^ 0-9]", "");				//replace char by using regular expression
+		System.out.println(rs);									
+		System.out.println(rs.replaceAll("[ ]", "/")); 			//replace char by using regular expression
 		String bval[] = b.split("_"); 							//split string and save it to an array and print it
 		for(int i=0;i<bval.length;i++)
 			System.out.println(bval[i]);

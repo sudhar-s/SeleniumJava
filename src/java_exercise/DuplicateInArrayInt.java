@@ -1,5 +1,6 @@
 package java_exercise;
 
+import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -8,9 +9,9 @@ public class DuplicateInArrayInt
 
 	public static void main(String[] args)
 	{
-		int a[] = {2,8,1,10,9,10};
+		int a[] = {2,4,1,10,9,10};
 		
-		
+		System.out.println("Given array values: "+Arrays.toString(a));
 		//1. Compare each elements: O(n*n) method
 		for(int i=0;i<a.length;i++)
 		{			

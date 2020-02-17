@@ -7,7 +7,7 @@ public class LargestSmallestNumberInArray
 	
 	public static void main(String[] args)
 	{
-		int a[] = {-1,0,10,2,33,4,50};
+		int a[] = {1,0,110,-5,33,-45,5};
 		int large = a[0];
 		int small = a[0];
 			

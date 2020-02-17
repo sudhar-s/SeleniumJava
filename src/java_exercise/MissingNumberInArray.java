@@ -5,7 +5,7 @@ public class MissingNumberInArray
 
 	public static void main(String[] args)
 	{
-		int a[] = {-1,0,1,2,3,4,5,6,8,9,10};
+		int a[] = {-1,0,1,2,3,4,6,7,8,9,10};
 		int sum = 0;
 		int sum1 = 0;
 		for(int i=0;i<a.length;i++)
@@ -17,9 +17,9 @@ public class MissingNumberInArray
 		System.out.println("Sum of orig Array values: "+sum1);
 		
 		if(sum != sum1)
-			System.out.println("Missing value in the Array is: "+(sum1-sum));
+			System.out.println("** Missing value in the Array is: "+(sum1-sum));
 		else
-			System.out.println("There is no missing value in the Array");
+			System.out.println("** There is no missing value in the Array **");
 
 	}
 
