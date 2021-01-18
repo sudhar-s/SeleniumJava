@@ -34,5 +34,17 @@
 	<classpathentry kind="lib" path="E:/Sel/poi-4.1.0/ooxml-lib/xmlbeans-3.1.0.jar"/>
 	<classpathentry kind="lib" path="E:/Sel/XlsReader-0.1.1.zip"/>
 	<classpathentry kind="lib" path="E:/Sel/jar_files/excel-reader-1.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Sel/webdrivermanager/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="E:/Sel/webdrivermanager/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="E:/Sel/webdrivermanager/commons-io-2.7.jar"/>
+	<classpathentry kind="lib" path="E:/Sel/webdrivermanager/commons-lang3-3.10.jar"/>
+	<classpathentry kind="lib" path="E:/Sel/webdrivermanager/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="E:/Sel/webdrivermanager/httpclient5-5.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Sel/webdrivermanager/httpcore5-5.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Sel/webdrivermanager/httpcore5-h2-5.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Sel/webdrivermanager/jarchivelib-1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Sel/webdrivermanager/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="E:/Sel/webdrivermanager/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="E:/Sel/webdrivermanager/webdrivermanager-4.1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
